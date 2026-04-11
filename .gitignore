@@ -6,3 +6,5 @@
 *.min.js
 *.min.css
 .agents/loop-state/
+
+.aidevops.json
