@@ -1,7 +1,7 @@
 {
   "name": "ultimate-multisite/multisite-ultimate-fluentaffiliate",
   "url": "https://multisiteultimate.com",
-  "description": "FluentAffiliate Integration for Multisite Ultimate — recurring commission tracking for WaaS memberships.",
+  "description": "FluentAffiliate Integration for Multisite Ultimate \u2014 recurring commission tracking for WaaS memberships.",
   "version": "1.0.0",
   "authors": [
     {
@@ -63,6 +63,11 @@
       "phpstan.neon.dist",
       "rector.php",
       ".github"
+    ]
+  },
+  "autoload-dev": {
+    "files": [
+      "vendor/php-stubs/wordpress-stubs/wordpress-stubs.php"
     ]
   }
 }
