@@ -2,7 +2,7 @@
 Contributors: superdav42
 Tags: affiliate, fluentaffiliate, multisite, woocommerce, recurring
 Requires at least: 5.3
-Tested up to: 6.8
+Tested up to: 7.0
 Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv2

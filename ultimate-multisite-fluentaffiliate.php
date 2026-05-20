@@ -9,7 +9,7 @@
  * Author URI: https://multisiteultimate.com
  * Network: true
  * Requires at least: 5.3
- * Tested up to: 6.8
+ * Tested up to: 7.0
  * Requires PHP: 7.4
  * Requires Plugins: ultimate-multisite
  * License: GPL2
