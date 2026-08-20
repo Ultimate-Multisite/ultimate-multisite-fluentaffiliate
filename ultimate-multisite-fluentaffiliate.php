@@ -4,7 +4,7 @@
  * Description: Track recurring commissions in FluentAffiliate for every membership renewal — gateway-agnostic, works with Stripe, PayPal, and all other gateways.
  * Plugin URI: https://multisiteultimate.com/addons
  * Text Domain: ultimate-multisite-fluentaffiliate
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Multisite Ultimate
  * Author URI: https://multisiteultimate.com
  * Network: true
@@ -20,7 +20,7 @@
 defined('ABSPATH') || exit;
 
 // Define addon constants.
-define('WP_ULTIMO_FLUENTAFFILIATE_VERSION', '1.0.0');
+define('WP_ULTIMO_FLUENTAFFILIATE_VERSION', '1.0.1');
 define('WP_ULTIMO_FLUENTAFFILIATE_PLUGIN_FILE', __FILE__);
 define('WP_ULTIMO_FLUENTAFFILIATE_PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('WP_ULTIMO_FLUENTAFFILIATE_PLUGIN_URL', plugin_dir_url(__FILE__));
@@ -40,7 +40,7 @@ class WP_Ultimo_FluentAffiliate {
 	 * @since 1.0.0
 	 * @var string
 	 */
-	public $version = '1.0.0';
+	public $version = '1.0.1';
 
 	/**
 	 * Single instance of the class.

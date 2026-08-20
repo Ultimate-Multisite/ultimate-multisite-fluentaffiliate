@@ -4,7 +4,7 @@ Tags: affiliate, fluentaffiliate, multisite, woocommerce, recurring
 Requires at least: 5.3
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -54,6 +54,10 @@ The addon checks (in order): manually assigned affiliate on the membership, Flue
 Yes. Go to Network Admin → Memberships → Edit Membership → FluentAffiliate tab.
 
 == Changelog ==
+
+= 1.0.1 =
+Version 1.0.1 - Released on 2026-08-19
+- Improved: WordPress compatibility metadata now reflects testing through WordPress 7.1.
 
 = 1.0.0 =
 * Initial release.
